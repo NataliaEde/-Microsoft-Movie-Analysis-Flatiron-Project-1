@@ -29,7 +29,7 @@ I have determined that the best predictors of profitability for a given film are
 
 **Budget:** Budgets as low as 15 to 35 million dollars show an increase in the movie’s gross domestic, but a budget above 200 million dollars does not show the same rate of return. Do not exceed 200 million dollars.
 
-**Release Month:** Aim to release the movie in June or November; if not, then in December, July, May. June and November bring twice as much gross domestic as the other months.
+**Release Month:** Aim to release the movie in June or May; if not, then in July, November, and December. June and May bring twice as much domestic gross as the other months.
 
 **Genres:** Prioritize the production of Adventure, Action, Comedy, and Sci Fi movies, as these genres are the top performers.
 
