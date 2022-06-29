@@ -27,14 +27,14 @@ My data consisted of 15 columns and 13,376 rows.
 
 I have determined that the best predictors of profitability for a given film are budget, release month, genre, cast and crew and movie length.
 
-Budget: Budgets as low as 15 to 35 million dollars show an increase in the movie’s gross domestic, but a budget above 200 million dollars does not show the same rate of return. Do not exceed 200 million dollars.
+**Budget:** Budgets as low as 15 to 35 million dollars show an increase in the movie’s gross domestic, but a budget above 200 million dollars does not show the same rate of return. Do not exceed 200 million dollars.
 
-Release Month: Aim to release the movie in June or November; if not, then in December, July, May. June and November bring twice as much gross domestic as the other months.
+**Release Month:** Aim to release the movie in June or November; if not, then in December, July, May. June and November bring twice as much gross domestic as the other months.
 
-Genres: Prioritize the production of Adventure, Action, Comedy, and Sci Fi movies, as these genres are the top performers.
+**Genres:** Prioritize the production of Adventure, Action, Comedy, and Sci Fi movies, as these genres are the top performers.
 
-Cast and Crew: Hire from the top performing cast and crew to increase chances for success. Certain names are associated with the most successful movies.
+**Cast and Crew:** Hire from the top performing cast and crew to increase chances for success. Certain names are associated with the most successful movies.
 
-Movie Length: Produce movies that would range from 90 minutes to 140 minutes. Movies within this length of time are the most profitable.
+**Movie Length:** Produce movies that would range from 90 minutes to 140 minutes. Movies within this length of time are the most profitable.
 
-Studios: Partner with established studios to produce movies, at least for the first year. This is a long-term investment that can lead to fruitful returns and greater independence in the future.
+**Studios:** Partner with established studios to produce movies, at least for the first year. This is a long-term investment that can lead to fruitful returns and greater independence in the future.
